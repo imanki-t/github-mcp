@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/mcp",
+      "methods": ["GET", "POST", "OPTIONS"],
+      "dest": "api/mcp/route.js"
+    }
+  ]
+}
